@@ -1,0 +1,2 @@
+# EverSky
+Use full screen
